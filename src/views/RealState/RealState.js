@@ -17,6 +17,10 @@ import Parallax from "components/Parallax/Parallax.js";
 
 import styles from "assets/jss/material-kit-react/views/landingPage.js";
 
+// Sections for this page
+import ConceptSection from "./Sections/ConceptSection.js";
+import ExploreSection from "./Sections/ExploreSection.js";
+
 
 const dashboardRoutes = [];
 
@@ -30,7 +34,7 @@ export default function RealState(props) {
         <Header
           color="transparent"
           routes={dashboardRoutes}
-          brand="Material Kit React"
+          brand="Link Tower"
           rightLinks={<HeaderLinks />}
           fixed
           changeColorOnScroll={{
@@ -66,6 +70,10 @@ export default function RealState(props) {
           </div>
         </Parallax>
         <div className={classNames(classes.main, classes.mainRaised)}>
+        <div className={classes.container}>
+          <ConceptSection />
+          <ExploreSection />
+          </div>
         </div>
         <Footer />
       </div>

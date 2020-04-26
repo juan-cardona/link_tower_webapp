@@ -1,5 +1,8 @@
 import { title } from "assets/jss/material-kit-react.js";
 
+import imagesStyles from "assets/jss/material-kit-react/imagesStyles.js";
+import { cardTitle } from "assets/jss/material-kit-react.js";
+
 const productStyle = {
   section: {
     padding: "70px 0",
