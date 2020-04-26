@@ -18,7 +18,8 @@ const productStyle = {
   ...imagesStyle,
   cardTitle,
   description: {
-    color: "#999"
+    color: "#999",
+    marginBottom : "5rem"
   }
 };
 

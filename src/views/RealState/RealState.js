@@ -20,7 +20,7 @@ import styles from "assets/jss/material-kit-react/views/landingPage.js";
 // Sections for this page
 import ConceptSection from "./Sections/ConceptSection.js";
 import ExploreSection from "./Sections/ExploreSection.js";
-
+import ContactSection from "./Sections/ContactSection.js";
 
 const dashboardRoutes = [];
 
@@ -73,6 +73,7 @@ export default function RealState(props) {
         <div className={classes.container}>
           <ConceptSection />
           <ExploreSection />
+          <ContactSection />
           </div>
         </div>
         <Footer />
