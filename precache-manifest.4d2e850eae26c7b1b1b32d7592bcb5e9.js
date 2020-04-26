@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d303147a16b88634c057e22160d3ceed",
+    "revision": "1bfecbf7e26a5356f034abc39567a69e",
     "url": "/link_tower_webapp/index.html"
   },
   {
-    "revision": "89e07932864e2370db40",
+    "revision": "ed8abbc1ad677d18cf6a",
     "url": "/link_tower_webapp/static/css/main.5450793a.chunk.css"
   },
   {
-    "revision": "5a5b1605a68d94747f37",
-    "url": "/link_tower_webapp/static/js/2.4684c82f.chunk.js"
+    "revision": "faf21b1bfa4eff7bdb89",
+    "url": "/link_tower_webapp/static/js/2.ac1843a1.chunk.js"
   },
   {
-    "revision": "89e07932864e2370db40",
-    "url": "/link_tower_webapp/static/js/main.67630126.chunk.js"
+    "revision": "ed8abbc1ad677d18cf6a",
+    "url": "/link_tower_webapp/static/js/main.42a5fbf8.chunk.js"
   },
   {
     "revision": "78d2dce7a278a1d7904a",
